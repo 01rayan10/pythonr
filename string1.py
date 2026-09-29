@@ -1,0 +1,5 @@
+palabra = str(input("Escribe una palabra: "))
+l = len(palabra)
+print(f"la palabra {palabra} tiene {l} caracteres")
+print(p[0])
+print(p[-1])
